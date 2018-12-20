@@ -1,0 +1,43 @@
+body{
+    background-image: url(http://rs221.pbsrc.com/albums/dd60/KillahhKenzie/Patterns/ColorChanging.gif~c200);
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#x{
+    padding: 25px;
+}
+#grade{
+    font-size: large;
+}
+button{
+    border-color: red;
+    background-color: transparent;
+    font-size: 25px;
+}
+table{
+    position: relative;
+    margin: auto;
+    color: #000000;
+    font-size: 20px;
+
+}
+input {
+    font-size: 20px;
+}
+#A{
+    background-color: #00c000;
+}
+#B{
+    background-color: #38afe1;
+}
+#C{
+    background-color: #fce700;
+}
+#D{
+    background-color: #ff5d00;
+}
+#F{
+    background-color: #8b0000;
+}
